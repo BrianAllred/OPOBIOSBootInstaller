@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (C) 2013 Brian D. Allred
+  ~
+  ~     This software source code is protected by copyright
+  ~     and may not be used, modified, or distributed
+  ~     without my permission.
+  ~
+  ~     All rights reserved.
+  -->
+
+<resources>
+    <string-array name="opomodels">
+        <item>16GB</item>
+        <item>64GB</item>
+    </string-array>
+</resources>
